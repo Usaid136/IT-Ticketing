@@ -1,9 +1,7 @@
----
-
 # 🧾 Smart Helpdesk – IT Ticket Management System
 
 **Smart Helpdesk** is a fully functional **web-based IT support ticket management system** built with **PHP**, **MySQL**, and **Bootstrap**.
-It enables users to **create, manage, and track support tickets** within an organization, helping IT departments or small businesses streamline issue resolution and improve workflow efficiency.
+
 
 ---
 
